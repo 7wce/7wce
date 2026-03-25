@@ -1,2 +1,2 @@
-Discord: 2n5j\
+Discord: p9sted\
 I code in Lua(u), Python, and sometimes C#
