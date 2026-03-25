@@ -1,2 +1,1 @@
-Discord: p9sted\
-I code in Lua(u), Python, and sometimes C#
+Socials: https://guns.lol/nkj
